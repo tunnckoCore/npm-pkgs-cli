@@ -1,4 +1,4 @@
-## [![npm][npmjs-img]][npmjs-url] [![mit license][license-img]][license-url] [![build status][travis-img]][travis-url] [![coverage status][coveralls-img]][coveralls-url] [![deps status][daviddm-img]][daviddm-url]
+## [![npm][npmjs-img]][npmjs-url] [![mit license][license-img]][license-url] [![build status][travis-img]][travis-url] [![deps status][daviddm-img]][daviddm-url]
 
 > CLI for listing and filtering user npm packages from the [npmjs.com](https://npmjs.com)!  Using [npm-pkgs-filter](http://j.mp/1J8UJe3)
 
